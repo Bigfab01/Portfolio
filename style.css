@@ -1,0 +1,52 @@
+html{
+    @font-face {
+        font-family: 'Roboto';
+        src: url('Roboto-ThinItalic-webfont.eot');
+        src: url('Roboto-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+             url('Roboto-ThinItalic-webfont.woff') format('woff'),
+             url('Roboto-ThinItalic-webfont.ttf') format('truetype'),
+             url('Roboto-ThinItalic-webfont.svg#RobotoThinItalic') format('svg'); (under the Apache Software License).
+        font-weight: 200;
+        font-style: italic;
+    }
+}
+
+h1 {
+    background-color: grey;
+    padding: 0%;
+    max-height: max-content;
+    text-size-adjust: 5px;
+    padding-left: 20;
+    
+    /* max-height: max-content; */
+
+}
+
+
+ul{
+    align-items: end;
+    justify-items: flex-end;
+    padding-left: 60%;
+    
+}
+
+body{
+    background-color:
+    }
+    
+    div p{
+        text-align: center;
+        color: black;
+
+    /* style="background-image: url('image/image/red\ pc.jpg');"> */
+  
+
+    }
+
+footer{
+        align-items: center;
+        background-color: grey;
+        font-family: 'Times New Roman', Times, serif;
+        padding-left: 30%;
+    }
+    
